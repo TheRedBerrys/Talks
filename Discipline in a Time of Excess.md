@@ -10,4 +10,10 @@ Being the King of Israel, you have many wives and concubines, an arrangement whi
 
 The scriptures tell us that, after this initial sin, David would go onto commit adultery with Bathsheba, kill her husband Uriah, and lose many of the blessings promised to him by the Lord.
 
-David had been, up until that point, an exceptionally righteous king and a paragon of virtue in a time of widespread iniquity.
+David had been, up until that point, an exceptionally righteous king and a paragon of virtue in a time of widespread iniquity. Surely he had experienced, and resisted, many such temptations before. So why, on this night, did David fall?
+
+This question can be worded more generally: why do good people do bad things? Why do husbands, after honorably working all day to support their families, get home and treat their wives and children unkindly? Why do wives, after years of faithful marriage, succumb to the advances of another man? Why do good students cheat on tests when they could have done just fine without cheating? Why do righteous people, who have been living a Gospel life for decades, commit sin that puts them on a pathway to certain destruction?
+
+## Willpower is a Muscle
+
+Three thousand years after David, recent behavioral science gives us clues to the answer to these questions. A great deal of research has been done in this area, and it can be boiled down to a single, simple phrase: willpower is a muscle.
