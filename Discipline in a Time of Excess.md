@@ -17,3 +17,8 @@ This question can be worded more generally: why do good people do bad things? Wh
 ## Willpower is a Muscle
 
 Three thousand years after David, recent behavioral science gives us clues to the answer to these questions. A great deal of research has been done in this area, and it can be boiled down to a single, simple phrase: willpower is a muscle.
+
+While many different studies have helped lead to this understanding, only one of them has chocolate chip cookies, so we'll discuss that one. In this study, subjects were brought into a room with freshly baked chocolate chip cookies--the air still had that fresh cookie smell which you are imagining now. Some of the subjects were allowed to indulge in the cookies, while others were denied the cookies and, quite cruelly, asked to eat some radishes instead.
+
+The test subjects were then taken to a different room where they were asked to work on a complex maze. Unbeknownst to the subjects, the maze was actually unsolvable; the scientists were only watching to see how long the subjects worked on the maze before giving up. The results were unexpected: those who had to resist the temptation of the cookies worked for less than half the time before giving up as those who were able to indulge in the cookies. In subsequent studies, a persistent pattern emerged wherein the more willpower people had to exert before working on the maze, the less time they were able to spend on the maze before they could no longer continue on.
+
