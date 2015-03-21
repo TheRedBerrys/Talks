@@ -22,3 +22,13 @@ While many different studies have helped lead to this understanding, only one of
 
 The test subjects were then taken to a different room where they were asked to work on a complex maze. Unbeknownst to the subjects, the maze was actually unsolvable; the scientists were only watching to see how long the subjects worked on the maze before giving up. The results were unexpected: those who had to resist the temptation of the cookies worked for less than half the time before giving up as those who were able to indulge in the cookies. In subsequent studies, a persistent pattern emerged wherein the more willpower people had to exert before working on the maze, the less time they were able to spend on the maze before they could no longer continue on.
 
+While we won't discuss all of the studies that lead to these conclusions, there are three elements to the understanding that willpower is a muscle:
+
+1. Like a physical muscle, there is a finite amount of strength the willpower muscle has, and once that strength is used up, we have to let it recover for some period of time before we can exercise it again.
+2. Like a physical muscle, if we regularly exercise the willpower muscle, it will get stronger over time.
+3. Like a physical muscle, the strength of the willpower muscle is transferable; improving the willpower muscle's strength in one area (for example, physically working out) leads to increased willpower strength in all other areas (for example, in financial decision-making).
+ 
+## Finite amount of willpower
+
+Like all true principles, once we have this understanding that willpower is a muscle, many experiences and observations we have had begin to make sense. One very clear example in this case is dieting. Why is it that many people begin a diet plan successfully, but then fall back to their old ways of eating in three or four weeks? The answer is that many diets require a constant exertion of willpower--with every bite, every minute of the day, these diets require people to eat things they don't like and avoid foods they do like. Diets like this can never be successful long term--that type of success requires a pattern of willpower exertion followed by willpower rest.
+
