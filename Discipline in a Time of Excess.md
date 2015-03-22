@@ -25,8 +25,8 @@ The test subjects were then taken to a different room where they were asked to w
 While we won't discuss all of the studies that lead to these conclusions, there are three elements to the understanding that willpower is a muscle:
 
 1. Like a physical muscle, there is a finite amount of strength the willpower muscle has, and once that strength is used up, we have to let it recover for some period of time before we can exercise it again.
-2. Like a physical muscle, if we regularly exercise the willpower muscle, it will get stronger over time.
-3. Like a physical muscle, the strength of the willpower muscle is transferable; improving the willpower muscle's strength in one area (for example, physically working out) leads to increased willpower strength in all other areas (for example, in financial decision-making).
+2. Like a physical muscle, the strength of the willpower muscle is transferable; improving the willpower muscle's strength in one area (for example, physically working out) leads to increased willpower strength in all other areas (for example, in financial decision-making).
+3. Like a physical muscle, if we regularly exercise the willpower muscle, it will get stronger over time.
  
 ## Finite amount of willpower
 
@@ -38,3 +38,8 @@ In finance, there's an old adage that "just because you have the money for it, d
 
 How can we apply this knowledge that willpower is finite to better live the Gospel? The most important thing to remember is that, if you have exerted a large amount of willpower recently, you are more susceptible to temptation. If you have just spent a long time studying, the temptation to view pornography will be harder to resist. If you are coming home from a hard day at work, you are more likely to lost your temper with your spouse or children. Even praying and reading scriptures can leave you temporarily easier to tempt.
 
+Knowing that we are more susceptible to temptation after exerting willpower allows us to manage our schedules so that we can avoid temptation during low-willpower times. After exercising or studying, we can avoid computers or other devices where pornography is easy to access. When we come home from work every day, we can spend a few minutes relaxing alone so we can be in a good mood when dealing with our families. When we have spent a long day serving as the King of Israel, we can avoid rooftops where bathing women might be seen. The details will depend on the particulars of your situation, but being mindful about your schedule will help you avoid temptation when you are weakest in dealing with it.
+
+## Transferable
+
+The second aspect of willpower is that it is transferable; in other words, developing willpower in one area of life leads to greater willpower in all areas of life.
