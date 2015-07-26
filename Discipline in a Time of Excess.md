@@ -25,7 +25,7 @@ The test subjects were then taken to a different room where they were asked to w
 While we won't discuss all of the studies that lead to these conclusions, there are three elements to the understanding that willpower is a muscle:
 
 1. Like a physical muscle, there is a finite amount of strength the willpower muscle has, and once that strength is used up, we have to let it recover for some period of time before we can exercise it again.
-2. Like a physical muscle, the strength of the willpower muscle is transferable; improving the willpower muscle's strength in one area (for example, physically working out) leads to increased willpower strength in all other areas (for example, in financial decision-making).
+2. Like a physical muscle, the strength of the willpower muscle is transferable; improving the willpower muscle's strength in one area leads to increased willpower strength in all other areas.
 3. Like a physical muscle, if we regularly exercise the willpower muscle, it will get stronger over time.
  
 ## Finite amount of willpower
@@ -42,4 +42,12 @@ Knowing that we are more susceptible to temptation after exerting willpower allo
 
 ## Transferable
 
-The second aspect of willpower is that it is transferable; in other words, developing willpower in one area of life leads to greater willpower in all areas of life.
+The second aspect of willpower is that it is transferable; in other words, developing willpower in one area of life leads to greater willpower in all areas of life. For instance, many scientific studies have shown that when adults begin rigorously following an exercise program, they also significantly improve their financial decision making.
+
+Two contrasting stories from the Scriptures illustrate this principle. The first is the story of Samson the Danite, as told in Judges chapters 13-16. Samson was blessed by the Lord with great strength--at one point he killed a thousand Philistines with a donkey's jawbone--but this strength wasn't developed through exercise. Rather, the Lord promised that Samson would have his physical strength as long as his hair was never cut. As a result, Samson never gained strength of willpower. When Delilah, herself a Philistine, pressured Samson to tell her the source of his strength, he gave in and told her, allowing his enemies to capture and eventually kill him.
+
+Standing in stark contrast is the hero of the Book of Mormon war chapters, Captain Moroni. According to the record, Moroni was also a "strong and mighty" man, but unlike Samson, he developed his strength the old fashioned way, through hard work. When the Nephite people needed him, Moroni was there, working tirelessly to drive out the Lamanite army and establish peace in the land of Zarahemla. Indeed, Helaman tells us quite famously that if all men would emulate Moroni, "the very powers of hell would have been shaken forever; yea, the devil would never have power over the hearts of the children of men."
+
+There are two ideas we should take away from these stories. First, physical strength means nothing if it is not accompanied by strength of willpower. Second, we can help the development of our spiritual strength by working on the strength of our willpower.
+
+The beauty of the transferability principle is that we can get better at resisting spiritual temptation without exposing ourselves to spiritual temptation. Because our willpower works the same regardless of the nature of a temptation, we can improve at resisting spiritual temptations by exposing ourselves to, and successfully resisting, non-spiritual temptations. Here's a suggestion: tomorrow, take a candy bar to work. Put it on your desk, but don't eat it until the end of the day. Maybe you won't succeed; maybe you will give in and eat the candy bar after an hour. That's okay, because you can do it again, and you might last two hours. Over time, you will be able to last all day without eating the candy bar. Then, when you are presented with a temptation that carries the weight of eternal significance, you can draw on your experience and strength to succeed. The scriptures tell us that by small and simple means, great things are brought to pass; a candy bar is the very definition of a small and simple thing, but by using it to develop our willpower, we can earn eternal life, certainly the greatest of great things.
